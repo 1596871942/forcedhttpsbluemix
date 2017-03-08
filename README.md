@@ -1,7 +1,7 @@
 # Forced HTTPS Redirect for Bluemix Apps
 ```
 var httpsRedirect = require('forcedhttpsbluemix');
-router.get('/', httpsRedirect, function(req, res, next) {
+router.get('/', httpsRedirect.redirect, function(req, res, next) {
     //do stuff...
     });
 ```
