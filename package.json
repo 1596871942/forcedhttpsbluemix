@@ -1,0 +1,26 @@
+{
+    "name": "forcedhttpsbluemix",
+    "version": "2.0.0",
+    "description": "Simple express middleware to force IBM Bluemix based apps to redirect to https protocol.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/patrickjamesbeam/forcedhttpsbluemix.git"
+    }
+    "keywords": [
+        "bluemix",
+        "https",
+        "redirect",
+        "cloud",
+        "foundry",
+        "kittens",
+        "octothorpe",
+        "express",
+        "protocol"
+    ],
+    "author": "Patrick J Beam",
+    "license": "MIT"
+}
